@@ -18,3 +18,13 @@ List  of files:
 
 *model_perceptron3.ipynb*
 
+
+
+### The archiquecture
+List  of files:
+
+*nn_fashion_dataset_example.ipynb*
+
+*nn_imdb_dataset_complete.ipynb*
+
+*nn_imbd_dataset_example.ipynb*
