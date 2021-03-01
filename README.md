@@ -3,6 +3,19 @@
 Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 
+### The neural networks with simplicity
+List of files:
+
+*1_forward_prop_example.ipynb*
+
+*2_activation_func_example.ipynb*
+
+*3_activation_func_muchas_example.ipynb*
+
+*4_multilayer_example.ipynb*
+
+
+
 ### The perceptron
 List  of files:
 
