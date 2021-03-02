@@ -36,7 +36,7 @@ List  of files:
 ### The archiquecture
 List  of files:
 
-*nn_fashion_dataset_example.ipynb*
+*nn_fashion_dataset_example.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
 *nn_imdb_dataset_complete.ipynb*
 
