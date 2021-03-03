@@ -37,6 +37,8 @@ List  of files:
 List  of files:
 *nn_fashion_dataset_example.ipynb**: Example of a multiclass problem with images.
 
+**nn_handnumbers_dataset_example.ipynb**: Example of a multiclass problem with handwriting images. 
+
 *nn_fashion_dataset_example.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
 *nn_imdb_dataset_complete.ipynb*
