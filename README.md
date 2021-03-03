@@ -50,7 +50,7 @@ List  of files:
 
 
 
-### The archiquecture
+### The neural networks learning with simplicity
 List  of files:
 
 *1_learning_example.ipynb*
