@@ -35,7 +35,7 @@ List  of files:
 
 ### The archiquecture
 List  of files:
-*nn_fashion_dataset_example.ipynb**: Example of a multiclass problem with images.
+*nn_fashion_dataset_example.ipynb*: Example of a multiclass problem with images.
 
 **nn_handnumbers_dataset_example.ipynb**: Example of a multiclass problem with handwriting images. 
 
