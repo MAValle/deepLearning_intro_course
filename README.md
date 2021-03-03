@@ -47,3 +47,11 @@ List  of files:
 *nn_imdb_dataset_complete.ipynb*
 
 *nn_imbd_dataset_example.ipynb*
+
+
+
+### The archiquecture
+List  of files:
+
+*1_learning_example.ipynb*
+
