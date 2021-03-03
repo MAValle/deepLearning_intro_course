@@ -35,6 +35,7 @@ List  of files:
 
 ### The archiquecture
 List  of files:
+
 *nn_cancer_datasetbinaryclass_example.ipynb*: Example of binary classification. Predicting Breast cancer.
 
 *nn_fashion_dataset_example.ipynb*: Example of a multiclass problem with images.
