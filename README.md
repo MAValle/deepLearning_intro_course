@@ -38,15 +38,15 @@ List  of files:
 
 *nn_cancer_datasetbinaryclass_example.ipynb*: Example of binary classification. Predicting Breast cancer.
 
-*nn_fashion_dataset_example.ipynb*: Example of a multiclass problem with images.
-
 *nn_handnumbers_dataset_example.ipynb*: Example of a multiclass problem with handwriting images. 
 
-*nn_fashion_dataset_example.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
+*nn_airbnb_datasets_example.ipynb*: Example of a regression model.
 
-*nn_imdb_dataset_complete.ipynb*
+*nn_fashion_dataset_example.ipynb*: Example of a multiclass problem with clothes images.
 
-*nn_imbd_dataset_example.ipynb*
+*nn_imdb_dataset_complete.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
+
+*nn_imbd_dataset_example.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
 
 
