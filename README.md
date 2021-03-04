@@ -55,3 +55,7 @@ List  of files:
 
 *1_learning_example.ipynb*
 
+*2_learning_example.ipynb*
+
+*3_learning_example.ipynb*
+
