@@ -59,3 +59,12 @@ List  of files:
 
 *3_learning_example.ipynb*
 
+
+
+### Recurrent Neural Networks
+List  of files:
+
+*1_continue_bitcoin_rnn_example.ipynb*: Example of forecasting of close prices of bitcoin using deep NN and RNN.
+
+*1_continue_bitcoin_lstm_example.ipynb*: Example of forecasting of close prices of bitcoin using LSTM.
+
