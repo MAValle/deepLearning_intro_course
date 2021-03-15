@@ -68,3 +68,5 @@ List  of files:
 
 *1_continue_bitcoin_lstm_example.ipynb*: Example of forecasting of close prices of bitcoin using LSTM.
 
+*2_google_lstm_example.ipynb*: Example of forecasting ofGoogle stock prices using LSTM.
+
