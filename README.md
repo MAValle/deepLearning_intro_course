@@ -38,6 +38,8 @@ List  of files:
 
 *nn_cancer_datasetbinaryclass_example.ipynb*: Example of binary classification. Predicting Breast cancer.
 
+*nn_cancer_datasetbinaryclass_example2.ipynb*: Same example of cancer, but now changing learning rate parameteres and comparing performance
+
 *nn_handnumbers_dataset_example.ipynb*: Example of a multiclass problem with handwriting images. 
 
 *nn_airbnb_datasets_example.ipynb*: Example of a regression model.
