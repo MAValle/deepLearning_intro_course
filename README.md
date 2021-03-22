@@ -12,11 +12,11 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   1.1 [Forward propagation](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_forward_prop_example.ipynb)
 
-  1.2 [Activation function](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_activation_func_example.ipynb)
+  1.2 [Activation function](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_activation_func_example.ipynb)
 
-  1.3 [Activation function II](https://github.com/MAValle/deepLearning_intro_course/blob/main/3_activation_func_muchas_example.ipynb)
+  1.3 [Activation function II](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/3_activation_func_muchas_example.ipynb)
 
-  1.4 [Multilayer perceptron](https://github.com/MAValle/deepLearning_intro_course/blob/main/4_multilayer_example.ipynb)
+  1.4 [Multilayer perceptron](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/4_multilayer_example.ipynb)
   
   
   
