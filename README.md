@@ -3,10 +3,12 @@
 Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 
-### The neural networks with simplicity
-List of files:
+### List of files:
 
-*1_forward_prop_example.ipynb*
+1. The neural networks with simplicity
+.. 1.1 [Forward propagation](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_forward_prop_example.ipynb)
+ 
+*1_forward_prop_example.ipynb*   
 
 *2_activation_func_example.ipynb*
 
