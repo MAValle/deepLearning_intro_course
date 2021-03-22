@@ -70,6 +70,6 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   5.1 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
 
-  5.2 [xample of forecasting of close prices of bitcoin using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
+  5.2 [Example of forecasting of close prices of bitcoin using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
 
   5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
