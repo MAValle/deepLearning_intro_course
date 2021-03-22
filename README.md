@@ -5,6 +5,7 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 
 ### List of files:
+======
 
 1. The neural networks with simplicity
 
