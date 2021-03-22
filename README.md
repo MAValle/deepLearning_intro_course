@@ -44,29 +44,23 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 3.6 [Example of imdb dataset I](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imdb_dataset_complete.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
-3.7 [Example of imdb dataset I](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imbd_dataset_example.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
+3.7 [Example of imdb dataset II](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imbd_dataset_example.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
+
+
+4. The neural networks learning with simplicity
+
+4.1 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_learning_example.ipynb)
+
+4.2 [Example 2](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_learning_example.ipynb)
+
+4.3 [Example 3](https://github.com/MAValle/deepLearning_intro_course/blob/main/3_learning_example.ipynb)
 
 
 
+5. Recurrent Neural Networks
 
+5.1 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
 
-### The neural networks learning with simplicity
-List  of files:
+5.2 [xample of forecasting of close prices of bitcoin using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
 
-*1_learning_example.ipynb*
-
-*2_learning_example.ipynb*
-
-*3_learning_example.ipynb*
-
-
-
-### Recurrent Neural Networks
-List  of files:
-
-*1_continue_bitcoin_rnn_example.ipynb*: Example of forecasting of close prices of bitcoin using deep NN and RNN.
-
-*1_continue_bitcoin_lstm_example.ipynb*: Example of forecasting of close prices of bitcoin using LSTM.
-
-*2_google_lstm_example.ipynb*: Example of forecasting ofGoogle stock prices using LSTM.
-
+5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
