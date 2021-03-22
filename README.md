@@ -57,7 +57,7 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 4. The neural networks learning with simplicity
 
-  4.1 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_learning_example.ipynb)
+  4.1 [Example 1](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_learning_example1.ipynb)
 
   4.2 [Example 2](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_learning_example.ipynb)
 
