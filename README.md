@@ -23,11 +23,11 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 2. The perceptron
 
-  2.1 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
+  2.1 [Example 1](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
 
-  2.2 [Example 2](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron2.ipynb)
+  2.2 [Example 2](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron2.ipynb)
 
-  2.3 [Example 3](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron3.ipynb)
+  2.3 [Example 3](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron3.ipynb)
 
   [Iris Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Iris.csv)
   
@@ -38,17 +38,17 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 3. The archiquecture
 
-  3.1 [Example of binary classification. Predicting Breast cancer](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example.ipynb)
+  3.1 [Example of binary classification. Predicting Breast cancer](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example.ipynb)
 
-  3.2 [Same example of cancer, but now changing learning rate parameteres and comparing performance](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example2.ipynb)
+  3.2 [Same example of cancer, but now changing learning rate parameteres and comparing performance](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example2.ipynb)
 
-  3.3 [Example of a multiclass problem with handwriting images](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_handnumbers_dataset_example.ipynb)
+  3.3 [Example of a multiclass problem with handwriting images](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_handnumbers_dataset_example.ipynb)
 
-  3.4 [Example of a regression model](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_airbnb_datasets_example.ipynb)
+  3.4 [Example of a regression model](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_airbnb_datasets_example.ipynb)
 
-  3.5 [Example of a multiclass problem with clothes images](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_fashion_dataset_example.ipynb)
+  3.5 [Example of a multiclass problem with clothes images](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_fashion_dataset_example.ipynb)
 
-  3.6 [Example of imdb dataset I](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imdb_dataset_complete.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
+  3.6 [Example of imdb dataset I](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/nn_imdb_dataset_complete.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
   3.7 [Example of imdb dataset II](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imbd_dataset_example.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
@@ -59,17 +59,17 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   4.1 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_learning_example.ipynb)
 
-  4.2 [Example 2](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_learning_example.ipynb)
+  4.2 [Example 2](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_learning_example.ipynb)
 
-  4.3 [Example 3](https://github.com/MAValle/deepLearning_intro_course/blob/main/3_learning_example.ipynb)
+  4.3 [Example 3](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/3_learning_example.ipynb)
 
 
 
 
 5. Recurrent Neural Networks
 
-  5.1 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
+  5.1 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
 
-  5.2 [Example of forecasting of close prices of bitcoin using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
+  5.2 [Example of forecasting of close prices of bitcoin using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
 
-  5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
+  5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
