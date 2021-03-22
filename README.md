@@ -2,7 +2,6 @@
 
 Set of Python scripts to practice in class and privately with Jupyter Networks.
 
-[I'm an inline-style link](https://www.google.com)
 
 
 ### List of files:
@@ -15,36 +14,23 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   1.3 [Activation function II](https://github.com/MAValle/deepLearning_intro_course/blob/main/3_activation_func_muchas_example.ipynb)
 
-  1.4 [Multulayer perceptron](https://github.com/MAValle/deepLearning_intro_course/blob/main/4_multilayer_example.ipynb)
+  1.4 [Multilayer perceptron](https://github.com/MAValle/deepLearning_intro_course/blob/main/4_multilayer_example.ipynb)
+  
 
 2. The perceptron
-4. 
-.. 1.1 [
- 
+
+  2.1 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
+
+  2.2 [Example 2](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron2.ipynb)
+
+  2.3 [Example 3](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron3.ipynb)
+
+  [Iris Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Iris.csv)
+  
+  [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
 
 
-**
 
-**
-
-**
-
-
-
-### The perceptron
-List  of files:
-
-*Iris.csv*
-
-*pima_dataset.csv*
-
-*model_1neuron.ipynn*
-
-*model_perceptron1.ipynb*
-
-*model_perceptron2.ipynb*
-
-*model_perceptron3.ipynb*
 
 
 
