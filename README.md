@@ -30,22 +30,35 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
   [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
 
 
+3. The archiquecture
+
+3.1 [Example of binary classification. Predicting Breast cancer](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example.ipynb)
+
+3.2 [Same example of cancer, but now changing learning rate parameteres and comparing performance](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_cancer_datasetbinaryclass_example2.ipynb)
+
+3.3 [Example of a multiclass problem with handwriting images](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_handnumbers_dataset_example.ipynb)
+
+3.4 [Example of a regression model](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_airbnb_datasets_example.ipynb)
+
+3.5 [Example of a multiclass problem with clothes images](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_fashion_dataset_example.ipynb)
+
+3.6 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
+
+3.7 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
 
 
 
 
-### The archiquecture
-List  of files:
 
-*nn_cancer_datasetbinaryclass_example.ipynb*: Example of binary classification. Predicting Breast cancer.
+**: .
 
-*nn_cancer_datasetbinaryclass_example2.ipynb*: Same example of cancer, but now changing learning rate parameteres and comparing performance
+**: 
 
-*nn_handnumbers_dataset_example.ipynb*: Example of a multiclass problem with handwriting images. 
+**: 
 
-*nn_airbnb_datasets_example.ipynb*: Example of a regression model.
+**: .
 
-*nn_fashion_dataset_example.ipynb*: Example of a multiclass problem with clothes images.
+**: .
 
 *nn_imdb_dataset_complete.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
