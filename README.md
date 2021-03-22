@@ -6,15 +6,21 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 ### List of files:
 
 1. The neural networks with simplicity
-.. 1.1 [Forward propagation](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_forward_prop_example.ipynb)
+..1. [Forward propagation](https://github.com/MAValle/deepLearning_intro_course/blob/main/1_forward_prop_example.ipynb)
+..2. [Activation function](https://github.com/MAValle/deepLearning_intro_course/blob/main/2_activation_func_example.ipynb)
+..3. [Activation function II](https://github.com/MAValle/deepLearning_intro_course/blob/main/3_activation_func_muchas_example.ipynb)
+..4. [Multulayer perceptron](https://github.com/MAValle/deepLearning_intro_course/blob/main/4_multilayer_example.ipynb)
+2. The perceptron
+4. 
+.. 1.1 [
  
-*1_forward_prop_example.ipynb*   
 
-*2_activation_func_example.ipynb*
 
-*3_activation_func_muchas_example.ipynb*
+**
 
-*4_multilayer_example.ipynb*
+**
+
+**
 
 
 
