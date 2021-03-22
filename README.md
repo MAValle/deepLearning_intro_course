@@ -2,6 +2,8 @@
 
 Set of Python scripts to practice in class and privately with Jupyter Networks.
 
+[I'm an inline-style link](https://www.google.com)
+
 
 ### List of files:
 
