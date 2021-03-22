@@ -42,27 +42,11 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 3.5 [Example of a multiclass problem with clothes images](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_fashion_dataset_example.ipynb)
 
-3.6 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
+3.6 [Example of imdb dataset I](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imdb_dataset_complete.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
-3.7 [Example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
-
-
+3.7 [Example of imdb dataset I](https://github.com/MAValle/deepLearning_intro_course/blob/main/nn_imbd_dataset_example.ipynb) Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
 
-
-**: .
-
-**: 
-
-**: 
-
-**: .
-
-**: .
-
-*nn_imdb_dataset_complete.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
-
-*nn_imbd_dataset_example.ipynb*: Caution! under JupyterLab Online, this code makes reinitiate the kernel. Safe run it on my pc.
 
 
 
