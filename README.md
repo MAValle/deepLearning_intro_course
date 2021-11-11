@@ -29,10 +29,6 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   2.3 [Example 3](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron3.ipynb)
 
-  [Iris Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Iris.csv)
-  
-  [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
-
 
 
 
@@ -73,3 +69,20 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
   5.2 [Example of forecasting of close prices of bitcoin using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
 
   5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
+  
+  
+
+
+6. DataSets
+
+  6.1 [Iris Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Iris.csv)
+  
+  6.2 [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
+  
+  6.3 [Airbnb Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/airbnb_short.csv)
+  
+  6.4 [Bitcoin Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/data_bitcoin.csv)
+  
+  6.5 [Google stock prices test Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Test.csv)
+  
+  6.6 [Google stock prices train Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Train.csv)
