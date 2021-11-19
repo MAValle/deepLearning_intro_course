@@ -64,11 +64,13 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 5. Recurrent Neural Networks
 
-  5.1 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
+  5.1 [Simple Example RNN](https://github.com/MAValle/deepLearning_intro_course/blob/main/rnn_example_basico.ipynb)
 
-  5.2 [Example of forecasting of close prices of bitcoin using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
+  5.2 [Example of forecasting of close prices of bitcoin using deep NN and RNN](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_rnn_example.ipynb)
 
-  5.3 [Example of forecasting ofGoogle stock prices using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
+  5.3 [Example of forecasting of close prices of bitcoin using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_continue_bitcoin_lstm_example.ipynb)
+
+  5.4 [Example of forecasting ofGoogle stock prices using LSTM](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/2_google_lstm_example.ipynb)
   
   
 
