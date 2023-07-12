@@ -7,6 +7,7 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 ### List of files:
 ---
 0. Motivation
+   
     0.1 [Is this wine good?](https://github.com/MAValle/deepLearning_intro_course/blob/main/DL_motivation_example.ipynb)
 
    
