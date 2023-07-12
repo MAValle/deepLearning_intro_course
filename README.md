@@ -6,9 +6,12 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
 ### List of files:
 ---
+0. Motivation
+    0.1 [Is this wine good?](https://github.com/MAValle/deepLearning_intro_course/blob/main/DL_motivation_example.ipynb)
 
+   
 
-1. The neural networks with simplicity
+2. The neural networks with simplicity
 
   1.1 [Forward propagation](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/1_forward_prop_example.ipynb)
 
