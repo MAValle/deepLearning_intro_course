@@ -84,11 +84,13 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
   6.1 [Iris Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Iris.csv)
   
   6.2 [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
-  
-  6.3 [Airbnb Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/airbnb_short.csv)
-  
-  6.4 [Google stock prices test Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Test.csv)
-  
-  6.5 [Google stock prices train Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Train.csv)
 
-  6.6 [Wine Quality](https://github.com/MAValle/deepLearning_intro_course/blob/main/winequality_red.csv). This data set can be retrieved from [here](https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download) also. 
+  6.3 [Cancer Dataset](https://raw.githubusercontent.com/MAValle/deepLearning_intro_course/main/cancer.csv)
+
+  6.4 [Airbnb Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/airbnb_short.csv)
+  
+  6.5 [Google stock prices test Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Test.csv)
+  
+  6.6 [Google stock prices train Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Train.csv)
+
+  6.7 [Wine Quality](https://github.com/MAValle/deepLearning_intro_course/blob/main/winequality_red.csv). This data set can be retrieved from [here](https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download) also. 
