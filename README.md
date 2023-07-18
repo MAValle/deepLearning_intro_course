@@ -85,7 +85,7 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
   
   6.2 [Pima Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/pima_dataset.csv)
 
-  6.3 [Cancer Dataset](https://raw.githubusercontent.com/MAValle/deepLearning_intro_course/main/cancer.csv)
+  6.3 [Cancer Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/cancer.csv)
 
   6.4 [Airbnb Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/airbnb_short.csv)
   
