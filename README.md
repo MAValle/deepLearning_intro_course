@@ -29,7 +29,9 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   2.1 [Example 1](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron1.ipynb)
 
-  2.2 [Example 2](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron2.ipynb)
+  2.2 [Perceptron by hand](https://raw.githubusercontent.com/MAValle/deepLearning_intro_course/main/model_perceptron_byhand.ipynb)
+
+  2.3 [Example 2](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron2.ipynb)
 
   2.3 [Example 3](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/model_perceptron3.ipynb)
 
