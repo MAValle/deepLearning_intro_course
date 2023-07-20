@@ -67,7 +67,7 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
 
   4.4 [Gradient descent example 0](https://nbviewer.org/github/MAValle/deepLearning_intro_course/blob/main/23_gradient_descent_example0.ipynb)
 
-  4.5 [Gradient descent example 1](https://nbviewer.jupyter.org/github/MAValle/deepLearning_intro_course/blob/main/3_learning_example.ipynb)
+  4.5 [Gradient descent example 1](https://github.com/MAValle/deepLearning_intro_course/blob/main/23_gradient_descent_example1.ipynb)
 
 
 
