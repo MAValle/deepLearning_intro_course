@@ -95,4 +95,6 @@ Set of Python scripts to practice in class and privately with Jupyter Networks.
   
   6.6 [Google stock prices train Dataset](https://github.com/MAValle/deepLearning_intro_course/blob/main/Google_Stock_Price_Train.csv)
 
-  6.7 [Wine Quality](https://github.com/MAValle/deepLearning_intro_course/blob/main/winequality_red.csv). This data set can be retrieved from [here](https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download) also. 
+  6.7 [Wine Quality](https://github.com/MAValle/deepLearning_intro_course/blob/main/winequality_red.csv). This dataset can be retrieved from [here](https://www.kaggle.com/datasets/rajyellow46/wine-quality?resource=download) also. 
+
+  6.8 [Boston Train dataset](  https://github.com/MAValle/deepLearning_intro_course/blob/main/boston_train.csv). This dataset can be retrieved from [here](https://www.kaggle.com/competitions/boston-housing/data?select=train.csv)
